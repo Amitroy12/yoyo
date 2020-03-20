@@ -34,7 +34,7 @@ echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/c/GyanaTech \e[0m"
 echo " "
 echo -e "\e[4;31m Please Read Instruction Carefully !!! \e[0m"
 echo " "
-echo "Press 1 To  Start SMS Bomber "
+echo "Press 1. To  Start SMS Bomber "
 echo "Press 2 To  Start Call Bomber "
 echo "Press 3 To  Update (Works On Linux And Linux Emulators) "
 echo "Press 4 To  View Features "
@@ -64,7 +64,7 @@ cd TBomb
 cp -r -f * .. > temp
 cd ..
 rm -rf  TBomb >> temp
-rm update.speedx >> temp
+rm update.amit roy >> temp
 rm temp
 chmod +x TBomb.sh
 fi
@@ -120,8 +120,8 @@ echo -e "\e[1;34m Created By \e[1;32m"
 toilet -f mono12 -F border SpeedX
 echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
 echo -e "\e[1;32m           Mail: ggspeedx29@gmail.com \e[0m"
-echo -e "\e[1;32m       Whatsapp: https://bit.do/speedxgit \e[0m"
-echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/c/GyanaTech \e[0m"
+echo -e "\e[1;32m       Whatsapp: https://bit.do/amitkumar9622770120aaaa@gmail.com \e[0m"
+echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/c/amitroy \e[0m"
 echo " "
 exit 0
 else
